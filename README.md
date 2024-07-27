@@ -9,4 +9,5 @@
 ## Verify JaCoCo Agent:
 
 - Check the presence of the JaCoCo .exec file: Ensure that the JaCoCo agent is running and generating the coverage data file.
-This script provides a generic approach to instrument JaCoCo in a Docker container and can be customized based on specific requirements and configurations.
+
+#### This script provides a generic approach to instrument JaCoCo in a Docker container and can be customized based on specific requirements and configurations.
